@@ -3,7 +3,7 @@
 
 ---
 
-Algumas funcionalidades são:
+# 📌 Algumas funcionalidades são:
 
 Adicionar novas bandas  
 Listar bandas cadastradas  
